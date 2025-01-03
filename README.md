@@ -183,4 +183,4 @@ Este proyecto está licenciado bajo la licencia MIT. Para más detalles, consult
 
 - **Autor:** Andres Olaret
 - **Email:** contacto@fittrackpro.com
-- **GitHub:** [https://github.com/usuario](https://github.com/andres-olarte396)
+- **GitHub:** [https://github.com/andres-olarte396](https://github.com/andres-olarte396)
